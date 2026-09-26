@@ -1,0 +1,11 @@
+Product_Name,Average_Daily_Demand,Current_Stock,Safety_Stock,Reorder_Point,Recommended_Order,Inventory_Status
+Backpack,0.94,122,6,13,0,SUFFICIENT
+Desk,0.69,112,4,9,0,SUFFICIENT
+Headphones,0.67,34,4,9,0,SUFFICIENT
+Keyboard,0.72,126,4,9,0,SUFFICIENT
+Laptop,0.84,91,5,11,0,SUFFICIENT
+Office Chair,0.59,40,4,8,0,SUFFICIENT
+Shoes,0.88,122,5,11,0,SUFFICIENT
+Smartphone,0.79,141,5,11,0,SUFFICIENT
+T-Shirt,0.77,94,5,10,0,SUFFICIENT
+Watch,0.69,107,4,9,0,SUFFICIENT
